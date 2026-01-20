@@ -14,7 +14,7 @@ This project is deployed on Vercel. Visit the live site here: [https://cgpa-calc
 
 ## Local Development
 
-Simply open `cgpa_calculator.html` in your browser to use the application locally.
+Simply open `index.html` in your browser to use the application locally.
 
 ## License
 

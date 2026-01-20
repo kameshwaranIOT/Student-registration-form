@@ -1,0 +1,10 @@
+{
+  "name": "cgpa-calculator",
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/cgpa_calculator.html"
+    }
+  ]
+}
